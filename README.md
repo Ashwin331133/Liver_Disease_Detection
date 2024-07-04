@@ -21,10 +21,4 @@ The dataset used is The Indian Liver Patient Dataset (ILPD) from the UCI Machine
 
 ## Conclusion
 
-This project explores methods for diagnosing liver disease using machine learning techniques. Various algorithms including Logistic Regression, KNN, Support Vector Machine, Gaussian Naive Bayes, Random Forest, and XGBoost Classifier were evaluated. Random Forest emerged as the model with the highest accuracy. A Flask-based GUI was developed to predict liver disease based on the trained Random Forest model. The GUI provides a valuable tool for medical staff in early detection and screening of liver disease in patients.
-
----
-
-### How to Use
-
-1. Clone the repository:
+In this project, we have proposed methods for diagnosing liver disease in patients using machine learning techniques. The different machine learning techniques that were used include Logistic Regression, KNN, Support vector Machine, Gaussian Naive bayes, Random forest and XGB classifier. The system was implemented using all the models and their performance was evaluated. Performance evaluation was based on model accuracy. Random forest was the model that resulted in the highest accuracy. A GUI is developed using Flask and implemented using Random forest. The system will predict whether the patient has liver disease or not based on the trained model. The GUI will be a useful tool for medical staff in the early detection of liver disease in patients
